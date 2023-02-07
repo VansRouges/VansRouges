@@ -5,8 +5,8 @@
 -->
 ### A Frontend Web Developer
 
-- 👩‍💻 I’m currently working on Artsy
-- 🌱 I’m currently learning Nextjs and Typescript and improving on my knowledge of Reactjs.
+- 👩‍💻 I’m currently working on Ad Astra
+- 🌱 I’m currently learning Vuejs and Typescript and improving on my knowledge of Reactjs.
 - 🤝 I'm open to collaborating on projects. 
 - 📫 How to reach me: [Here's my mail](evansagina57@gmail.com)
 - ⚡ Fun fact: I'm a great writer.
