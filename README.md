@@ -3,6 +3,8 @@
 <!--
 **VansRouges/VansRouges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+![animation_lmh3vsks_small](https://github.com/VansRouges/VansRouges/assets/67249759/70546966-5a33-41f7-afcc-a495df5a6d5a)
+
 ### A Fullstack Web Developer
 
 <!-- - 👩‍💻 I’m currently learning more about Typescript -->
