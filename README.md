@@ -13,7 +13,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vansrouges&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VansRouges)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VansRouges)](https://git.io/streak-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vansrouges&langs_count=5&theme=tokyonight)]()
 
